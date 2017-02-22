@@ -1,1 +1,1 @@
-// C'est pas un commentaire
+// Ce n'est pas un commentaire.
